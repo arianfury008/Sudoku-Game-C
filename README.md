@@ -20,6 +20,6 @@
  * RealTime checking
  * Exit
 
- How it works ? Please view this video : https://drive.google.com/file/d/1rjYmjK6FiEBOi__Itb5hnomf3aA-l6R3/view?usp=sharing
+ How it works ?  https://drive.google.com/file/d/1rjYmjK6FiEBOi__Itb5hnomf3aA-l6R3/view?usp=sharing
 
 ## TEAM MEMBER : ARIAN KHATIBAN , ZAHRA MAHMOODI

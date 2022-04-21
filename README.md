@@ -1,2 +1,3 @@
 # Sudoku-Game-C
-### this is our university project
+## This is our university project
+##
